@@ -55,8 +55,11 @@ Use it as a sandbox for experimentation, exploration, and practice.
 
 ## 🔗 References & Further Reading
 
-- Biopython Official Documentation & Tutorial
+- [Biopython Official Documentation & Tutorial](https://biopython.org/docs/latest/Tutorial/)
 
 - NCBI Entrez Utilities — for programmatic access to biological databases
 
 - Standard bioinformatics practices for sequence analysis
+
+- STAT115 / BIO282 — Introduction to Computational Biology and Bioinformatics (Harvard, 2021)  
+  A well-known introductory course that inspired parts of the educational structure used in this repository.
